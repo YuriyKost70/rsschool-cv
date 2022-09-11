@@ -61,25 +61,35 @@
 * **Task from CODEWARS :**  **Convert number to reversed array of digits.**
 *Given a random non-negative number, you have to return the digits of this number within an array in reverse order.*
 
+```javascript
+
         function digitize(n) {
             return n.toString()
                     .split("")
                     .reverse()
                     .map(Number);
             }
+```
+
 * **Task from CODEWARS :**  **Convert a string to an array.**
 *Convert a string to an array*
+
+```javascript
 
         function stringToArray(string){
         return string.split(' ');
         }
+```
 
 * **Task from CODEWARS :**  **Reversed Words.**
 *Complete the solution so that it reverses all of the words within the string passed in.*
 
+```javascript
+
         function reverseWords(str){
         return str.split(' ').reverse().join(' ');
         }
+```
 
 ---
 
