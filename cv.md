@@ -1,3 +1,4 @@
+
 # [rsschool-cv](https://YuriyKost70.github.io/rsschool-cv/cv)
 
 ---
@@ -12,12 +13,12 @@
 
 #### Contact Information
 
-* **Address :**       Sumy, Ukraine 40030
-* **Phone :**         +(380)67 540 47 56
-* **E-mail :**    yvkost@gmail.com
-* **GitHub :**  [YuriyKost70](https://github.com/YuriyKost70)
-* **Telegram :**  [Yuriy_Kost](https://t.me/Yuriy_Kost)
-* **Discord :**  YuriyKost70#8284
+* **Address :**     Sumy, Ukraine 40030
+* **Phone :**       +(380)67 540 47 56
+* **E-mail :**      yvkost@gmail.com
+* **GitHub :**      [YuriyKost70](https://github.com/YuriyKost70)
+* **Telegram :**    [Yuriy_Kost](https://t.me/Yuriy_Kost)
+* **Discord :**     YuriyKost70#8284
 
 ---
 
